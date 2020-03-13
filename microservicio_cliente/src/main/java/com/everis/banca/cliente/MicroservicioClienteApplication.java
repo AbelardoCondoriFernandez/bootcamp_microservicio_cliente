@@ -1,4 +1,4 @@
-package com.everis.banca.clientes;
+package com.everis.banca.cliente;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

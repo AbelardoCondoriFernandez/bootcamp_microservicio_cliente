@@ -1,4 +1,4 @@
-package com.everis.banca.clientes;
+package com.everis.banca.cliente;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
